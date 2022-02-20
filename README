@@ -1,0 +1,12 @@
+# Hoe Jun Leong Submission
+
+Main code is process_img.py
+
+I've explored various morphology and thresholding methods, along with semi-light preprocessing methods
+as well.
+
+Apologies for not completing the task due to time constraints on my end, but nonetheless it was
+extremely fun and rewarding to practice!
+
+One thing i wanted to try but didn't have time to implement is gray world's algo. There's likely 
+more but yea this is supposed to be a short exercise after all haha
